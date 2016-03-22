@@ -529,3 +529,21 @@ body {
         font-size: 22px;
     }
 }
+
+.fc-emailfield {
+    display: inline-block;
+    margin: 0;
+    width: 350px;
+    vertical-align: top;
+    font-family: "Open Sans","Helvetica Neue",Arial,Helvetica,Verdana,sans-serif;
+    background: none;
+    border-radius: 0;
+    border-color: #f05f40;
+    border-style: ridge;
+    color: white;
+    font-size: 18px;
+    line-height: 1.33333;
+    padding: 10px 16px;
+    margin-bottom: 15px;
+    height: 46px;   
+}
